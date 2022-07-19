@@ -1,0 +1,220 @@
+
+ceibe@DESKTOP-A9LI3HC MINGW64 ~
+$ ls
+'3D Objects'/
+'Ambiente de Impressão'@
+'Ambiente de Rede'@
+ AppData/
+ AppMods/
+'Cisco Packet Tracer 7.3.1'/
+ CmapToolsLogs/
+'Configurações Locais'@
+ Contacts/
+ Cookies@
+'Dados de Aplicativos'@
+ Desktop/
+ Documents/
+ Downloads/
+ eclipse/
+ eclipse-workspace/
+ Favorites/
+ InstallAnywhere/
+ IntelGraphicsProfiles/
+ Links/
+'Menu Iniciar'@
+'Meus Documentos'@
+ MicrosoftEdgeBackups/
+ Modelos@
+ Music/
+'NCH Software Suite'/
+ NTUSER.DAT
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ NTUSER.DAT{26065856-e6aa-11ea-bca7-8d55df8d2dbc}.TM.blf
+ NTUSER.DAT{26065856-e6aa-11ea-bca7-8d55df8d2dbc}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{26065856-e6aa-11ea-bca7-8d55df8d2dbc}.TMContainer00000000000000000002.regtrans-ms
+ ntuser.ini
+ OneDrive/
+'OneDrive - Fatec Centro Paula Souza'/
+ Pictures/
+ Recent@
+'Recorded Calls'/
+'Saved Games'/
+ Searches/
+ SendTo@
+ Videos/
+'VirtualBox VMs'/
+ workspace/
+
+ceibe@DESKTOP-A9LI3HC MINGW64 ~
+$ cd workspace/
+
+ceibe@DESKTOP-A9LI3HC MINGW64 ~/workspace
+$ ls
+Engenharia/  Exercicio6/  Exercicio7/  Java/  JavaFX/  LES/  POO/  RemoteSystemsTempFiles/  SO/
+
+ceibe@DESKTOP-A9LI3HC MINGW64 ~/workspace
+$ cd..
+bash: cd..: command not found
+
+ceibe@DESKTOP-A9LI3HC MINGW64 ~/workspace
+$ cd ..
+
+ceibe@DESKTOP-A9LI3HC MINGW64 ~
+$ cd workspace/
+
+ceibe@DESKTOP-A9LI3HC MINGW64 ~/workspace
+$ cd users
+bash: cd: users: No such file or directory
+
+ceibe@DESKTOP-A9LI3HC MINGW64 ~/workspace
+$ cd Desktop
+bash: cd: Desktop: No such file or directory
+
+ceibe@DESKTOP-A9LI3HC MINGW64 ~/workspace
+$ ls
+Engenharia/  Exercicio6/  Exercicio7/  Java/  JavaFX/  LES/  POO/  RemoteSystemsTempFiles/  SO/
+
+ceibe@DESKTOP-A9LI3HC MINGW64 ~/workspace
+$ cd ..
+
+ceibe@DESKTOP-A9LI3HC MINGW64 ~
+$ cd D
+Dados de Aplicativos/ Desktop/              Documents/            Downloads/
+
+ceibe@DESKTOP-A9LI3HC MINGW64 ~
+$ cd Desktop/
+
+ceibe@DESKTOP-A9LI3HC MINGW64 ~/Desktop
+$ ls
+ 2.jfif
+'A saúde bucal no Sistema Único de Saúde.pdf'
+'ACFrOgBYikej7jJ55ExwyJikmdDg0HXvwnYYmti5YZqeQDlOA6WhMQDOr2ZCErMiUQEEspW0pgQizWoPjAJlWdP8UlkJgY_O4fkjsszU6aPk1PcPMGRePGdxFFyXD4Y=.pdf'
+ Bit/
+'BLOQUEIO DIRETO.png'
+'cartilha correta.pptx'
+'cartilha uni9.pptx'
+'cartilha uni9.pptx.iimi1eg.partial'
+'Cisco Packet Tracer.lnk'*
+ consult.pdf
+ coronavirus.jpg
+ desktop.ini
+ DoDev/
+'download (1).png'
+'download (2).png'
+'download (3).png'
+ download.png
+'dra fernanda.pdf'
+'eclipse - Atalho.lnk'*
+'EducaÃ§Ã£o nutricional - slides atualizados.pptx'
+'Educar com afeto.pptx'
+'email r.alvim@uninove.edu.br senha deusbom368104'/
+'encaminhamento para a uni9.xlsx'
+ eol/
+'Este Computador - Atalho.lnk'*
+'foto consult.jpeg'
+'fotos orientação'/
+'Futuro Projeto'/
+ individual.pdf
+ industria-nov.jpg
+ industrias_wd2219.jpg
+ lavanderia-planejada-dica-26.jpg
+'LISTA CRECHE 2020.pdf'
+'LISTA DE CLASSIFICAÇÃO SEGUNDO SEMESTRE 2018.xlsx'
+'lista letra C dia 11.10 manhã.xlsx'
+'Melim   Um Mundo Ideal (De.mp3'
+'Microsoft SQL Server Tools 18.lnk'*
+'MINI II-C-RELATÓRIO 2018- 2ºSEM..docx'
+ Notion.lnk*
+'Nova pasta'/
+'O que é coronavírus_.pptx'
+ ORCAMENTO.xlsx
+ orientação.pdf
+'PASTA COM A RELAÇÃO DE PACIENTES DE RX UNI5.xlsx'
+'PEDIDO CUNSULTORIO 2018'/
+ Project1/
+ Regulamento_consultório_2017.ppt
+'RELATÓRIOS 2018'/
+ slm.pdf
+ TLauncher.lnk*
+'trabalho lilian.jpg'
+ trabalho.jpg
+ unibes.jpg
+ VDownloader.lnk*
+'Visual Studio Code.lnk'*
+'WhatsApp Image 2019-05-28 at 15.23.06.jpeg'
+'WhatsApp Image 2019-05-28 at 15.23.07.jpeg'
+'WhatsApp Image 2019-05-30 at 12.59.49 (1).jpeg'
+'WhatsApp Image 2019-05-30 at 12.59.50 (1).jpeg'
+'WhatsApp Image 2019-05-30 at 12.59.52.jpeg'
+'WhatsApp Image 2019-05-30 at 12.59.54.jpeg'
+ WhatsApp.html
+ WhatsApp.lnk*
+ WhatsApp_files/
+
+ceibe@DESKTOP-A9LI3HC MINGW64 ~/Desktop
+$ cd Futuro
+bash: cd: Futuro: No such file or directory
+
+ceibe@DESKTOP-A9LI3HC MINGW64 ~/Desktop
+$ cd Futuro\ Projeto/
+
+ceibe@DESKTOP-A9LI3HC MINGW64 ~/Desktop/Futuro Projeto
+$ cd ..
+
+ceibe@DESKTOP-A9LI3HC MINGW64 ~/Desktop
+$ cd Futuro\ Projeto/
+
+ceibe@DESKTOP-A9LI3HC MINGW64 ~/Desktop/Futuro Projeto
+$ ls
+assets/  index.html
+
+ceibe@DESKTOP-A9LI3HC MINGW64 ~/Desktop/Futuro Projeto
+$ git init
+Initialized empty Git repository in C:/Users/ceibe/Desktop/Futuro Projeto/.git/
+
+ceibe@DESKTOP-A9LI3HC MINGW64 ~/Desktop/Futuro Projeto (master)
+$ git clone https://github.com/Math-Fatec/Futuros-Projetos.git
+Cloning into 'Futuros-Projetos'...
+remote: Enumerating objects: 12, done.
+remote: Counting objects: 100% (12/12), done.
+remote: Compressing objects: 100% (7/7), done.
+remote: Total 12 (delta 1), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (12/12), done.
+Resolving deltas: 100% (1/1), done.
+
+ceibe@DESKTOP-A9LI3HC MINGW64 ~/Desktop/Futuro Projeto (master)
+$ ls
+ls: cannot open directory '.': No such file or directory
+
+ceibe@DESKTOP-A9LI3HC MINGW64 ~/Desktop/Futuro Projeto
+$ cd ..
+
+ceibe@DESKTOP-A9LI3HC MINGW64 ~/Desktop
+$ git clone https://github.com/Math-Fatec/Futuros-Projetos.git
+Cloning into 'Futuros-Projetos'...
+remote: Enumerating objects: 12, done.
+remote: Counting objects: 100% (12/12), done.
+remote: Compressing objects: 100% (7/7), done.
+remote: Total 12 (delta 1), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (12/12), done.
+Resolving deltas: 100% (1/1), done.
+
+ceibe@DESKTOP-A9LI3HC MINGW64 ~/Desktop
+$
+
+ceibe@DESKTOP-A9LI3HC MINGW64 ~
+$ cd Desktop/
+
+ceibe@DESKTOP-A9LI3HC MINGW64 ~/Desktop
+$ cd F
+foto consult.jpeg  fotos orientação/  Futuros Projetos/  Futuros-Projetos/
+
+ceibe@DESKTOP-A9LI3HC MINGW64 ~/Desktop
+$ cd Futuros-Projetos/
+
+ceibe@DESKTOP-A9LI3HC MINGW64 ~/Desktop/Futuros-Projetos (main)
+$ code .
+
+ceibe@DESKTOP-A9LI3HC MINGW64 ~/Desktop/Futuros-Projetos (main)
+$
